@@ -6,3 +6,10 @@ Lab 1 (3 Parts)
 * Modified Hello World
 * Integer Classification
 * More Even and Odd
+
+Lab 4 (5 Parts)
+* Factorial Function
+* Fibonacci Number Function
+* Two Strings Equal Checker
+* Sum of List Function
+* Reverse String Function
