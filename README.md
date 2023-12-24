@@ -13,3 +13,9 @@ Lab 4 (5 Parts)
 * Two Strings Equal Checker
 * Sum of List Function
 * Reverse String Function
+
+CSE031 - Computer Organization and Assembly Language (C)
+
+Lab 1
+* Punishment
+* Averages
