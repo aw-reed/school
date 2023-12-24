@@ -25,3 +25,6 @@ Lab 2
 
 Lab 3
 * Bubble Sort + Binary Search
+
+Lab 4
+* Matrix Multiplication
