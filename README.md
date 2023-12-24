@@ -22,3 +22,6 @@ Lab 1
 
 Lab 2
 * Pointers
+
+Lab 3
+* Bubble Sort + Binary Search
