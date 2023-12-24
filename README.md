@@ -1,6 +1,6 @@
-this repository is full of all my labs for different courses during my time at UC Merced, i graduate spring 2025!
+this repository is full of all my labs for different courses during my time in university
 
-CSE015 - Discrete Mathematics (Python)
+Discrete Mathematics (Python)
 
 Lab 1 (3 Parts)
 * Modified Hello World
@@ -14,7 +14,7 @@ Lab 4 (5 Parts)
 * Sum of List Function
 * Reverse String Function
 
-CSE031 - Computer Organization and Assembly Language (C)
+Computer Organization and Assembly Language (C)
 
 Lab 1
 * Punishment
