@@ -19,3 +19,6 @@ Computer Organization and Assembly Language (C)
 Lab 1
 * Punishment
 * Averages
+
+Lab 2
+* Pointers
