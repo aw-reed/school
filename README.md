@@ -28,3 +28,6 @@ Lab 3
 
 Lab 4
 * Matrix Multiplication
+
+Lab 5
+* Intro to MIPs
