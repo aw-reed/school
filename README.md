@@ -14,23 +14,23 @@ Lab 4 (5 Parts)
 * Sum of List Function
 * Reverse String Function
 
-Computer Organization and Assembly Language (C)
+Computer Organization and Assembly Language (C & Assembly)
 
-Lab 1
+Lab 1 (C)
 * Punishment
 * Averages
 
-Lab 2
+Lab 2 (C)
 * Pointers
 
-Lab 3
+Lab 3 (C)
 * Bubble Sort + Binary Search
 
-Lab 4
+Lab 4 (C)
 * Matrix Multiplication
 
-Lab 5
+Lab 5 (Assembly)
 * Intro to MIPs
 
-Lab 6
+Lab 6 (Assembly)
 * Loops
