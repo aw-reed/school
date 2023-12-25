@@ -32,5 +32,10 @@ Lab 4 (C)
 Lab 5 (Assembly)
 * Intro to MIPs
 
+Algorithm Design and Analysis (C++)
+
+Lab 0
+* Find Max and Min
+
 Lab 6 (Assembly)
 * Loops
