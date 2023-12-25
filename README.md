@@ -31,3 +31,6 @@ Lab 4
 
 Lab 5
 * Intro to MIPs
+
+Lab 6
+* Loops
