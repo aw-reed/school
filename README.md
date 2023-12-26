@@ -64,3 +64,6 @@ Lab 7
 
 Lab 8
 * Matrix Chain Multiplication
+
+Lab 9
+* Huffman Codes
