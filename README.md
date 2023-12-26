@@ -52,3 +52,6 @@ Lab 3
 Lab 4 (2 Parts)
 * Heap Sort
 * Quick Sort
+
+Lab 5
+* Radix Sort
