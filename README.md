@@ -70,3 +70,6 @@ Lab 9
 
 Lab 10
 * Strongly Connected Components
+
+Lab 11
+* Minimum Spanning Tree
