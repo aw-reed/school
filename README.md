@@ -48,3 +48,7 @@ Lab 2
 
 Lab 3
 * Max Subarray Problem via Divide and Conquer
+
+Lab 4 (2 Parts)
+* Heap Sort
+* Quick Sort
