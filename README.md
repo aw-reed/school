@@ -67,3 +67,6 @@ Lab 8
 
 Lab 9
 * Huffman Codes
+
+Lab 10
+* Strongly Connected Components
