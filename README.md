@@ -61,3 +61,6 @@ Lab 6
 
 Lab 7
 * Rod Cutting
+
+Lab 8
+* Matrix Chain Multiplication
