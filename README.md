@@ -42,3 +42,6 @@ Lab 0
 
 Lab 1
 * Insertion Sort
+
+Lab 2
+* Merge Sort
