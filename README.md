@@ -55,3 +55,6 @@ Lab 4 (2 Parts)
 
 Lab 5
 * Radix Sort
+
+Lab 6
+* Hash Table with Chaining
