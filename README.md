@@ -45,3 +45,6 @@ Lab 1
 
 Lab 2
 * Merge Sort
+
+Lab 3
+* Max Subarray Problem via Divide and Conquer
