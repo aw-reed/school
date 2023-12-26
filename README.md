@@ -58,3 +58,6 @@ Lab 5
 
 Lab 6
 * Hash Table with Chaining
+
+Lab 7
+* Rod Cutting
