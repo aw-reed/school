@@ -73,3 +73,6 @@ Lab 10
 
 Lab 11
 * Minimum Spanning Tree
+
+Lab 12
+* Bellman-Ford Algorithm
