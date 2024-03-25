@@ -1,0 +1,91 @@
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"
+        <title>Introduction to HTML, JavaScript, and CSS Lab</title>
+        <style>
+            body {
+                font-family: 'Times New Roman', Times, serif;
+                font-size: x-large;
+                text-align: center;
+                margin: 50px;
+                background-color: antiquewhite;
+            }
+
+            h2 {
+                color: #86837B;
+            }
+
+            label {
+                font-weight: bold;
+                display: block;
+                margin-bottom: 5px;
+                color: #86837B;
+                font-size: xx-large;
+            }
+
+            input {
+                padding: 8px;
+                background-color: black;
+                color: white;
+                font-size: 16px;
+                border: 1px solid white;
+                border-radius: 5px;
+                font-weight: bold;
+                height: 40px;
+                width: 120px;
+            }
+
+            button {
+                padding: 8px 15px;
+                font-size: 16px;
+                background-color: black;
+                color: white;
+                border: none;
+                border-radius: 5px;
+                font-weight: bold;
+                height: 40px;
+                width: 120px;
+                cursor: pointer;
+            }
+
+            button:hover {
+                opacity: 0.8;
+            }
+
+            #result {
+                margin-top: 20px;
+                font-size: 36px;
+                font-weight: bold;
+                color: #86837B;
+            }
+        </style>
+    </head>
+<body>
+    <h2>How Old Are You?</h2>
+
+    <form id="ageForm">
+        <label for="birthdate">Enter Your Birth Date Below:</label>
+        <input type ="date" id="birthdate" required>
+        <button type="button" onclick="age()">Calculate</button>
+    </form>
+
+    <p id="result"></p>
+
+    <script>
+        function age(){
+            const birthInput = document.getElementById('birthdate').value;
+            const birthdate = new Date(birthInput);
+            const now = new Date();
+
+            if (birthdate > now){
+                document.getElementById('result').innerHTML = "Enter A Possible Birth Date.";
+            } else {
+                const age = Math.floor((now - birthdate) / (365.25 * 24 * 60 * 60 * 1000));
+                document.getElementById('result').innerHTML = "You are " + age + " years old!";
+            }
+        }
+    </script>
+
+</body>
+</html>
