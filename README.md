@@ -76,3 +76,8 @@ Lab 11
 
 Lab 12
 * Bellman-Ford Algorithm
+
+Human-Computer Interaction (Multiple Languages)
+
+Lab 1
+* HTML, JavaScript, and CSS
