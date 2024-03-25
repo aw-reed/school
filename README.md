@@ -81,3 +81,9 @@ Human-Computer Interaction (Multiple Languages)
 
 Lab 1
 * HTML, JavaScript, and CSS
+
+Lab 6
+* Google Translate API
+
+Lab 7
+* Text-to-Speech API
