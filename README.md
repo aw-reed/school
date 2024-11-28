@@ -1,4 +1,4 @@
-this repository is full of all my labs for different courses during my time in university
+This repository is full of all my labs for different courses during my time at UC Merced!
 
 Discrete Mathematics (Python)
 
